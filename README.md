@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Megh%20Chakravarty&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CB2D3E,100:EF473A&height=200&section=header&text=Megh%20Chakravarty&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
@@ -20,8 +20,8 @@
 |---|---|
 | 🎓 **Education** | B.Tech CSE, VIT Vellore (2023 – 2027) — CGPA 9.23 |
 | 📍 **Location** | Ahmedabad, Gujarat, India |
-| 🔧 **Focus** | Backend systems, distributed systems, applied ML |
-| 🎯 **Looking for** | SDE roles — Product & Fintech |
+| 🔧 **Focus** | Backend systems, distributed systems, Software Development |
+| 🎯 **Looking for** | SDE roles |
 | ⚡ **Currently** | Building backend systems with Spring Boot + AI integrations |
 | 🏅 **Leadership** | Secretary, IoThinC Club @ VIT Vellore |
 
@@ -33,13 +33,17 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,java,py" />
 
-**Backend & Frameworks**
+**Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,streamlit,pandas,numpy,sklearn" />
 
-**Databases, Tools & Infrastructure**
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,postman" />
+<img src="https://skillicons.dev/icons?i=sqlite,postgres" />
+
+**Tools & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=redis,docker,postman,git" />
 
 <br>
 
@@ -52,5 +56,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CB2D3E,100:EF473A&height=100&section=footer" />
 </p>
