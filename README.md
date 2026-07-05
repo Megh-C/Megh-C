@@ -33,13 +33,10 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,java,py" />
 
-**Frameworks & Libraries**
+**Frameworks & Technologies**
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi,streamlit,pandas,numpy,sklearn" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,postgres,sqlite" />
 
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=sqlite,postgres" />
 
 **Tools & Infrastructure**
 
